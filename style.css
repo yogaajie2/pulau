@@ -1,12 +1,84 @@
-h2.navbarBrand {
+html, body, .mainSlogan {
+	height: 100%;
+}
+
+h1 {
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 5rem;
+}
+
+p {
+	font-family: 'Raleway', sans-serif;
+}
+
+body {
+	background-image: url("img/landingPage.jpeg");
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+header {
+	background-color: #fba03e;
+}
+
+h4.navbarBrand {
 	text-align: right;
+	font-family: 'Josefin Sans', sans-serif;
+	text-transform: uppercase;
+}
+
+.sidebar-nav li a {
+  font-family: 'Josefin Sans', sans-serif;
+  display: block;
+  text-decoration: none;
+  color: #fff;
+
+}
+
+.sidebar-nav li a:hover {
+  text-decoration: none;
+  color: #fff;
+  background: rgba(255, 255, 255, 0.2);
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.mainSlogan, .subSlogan, .bookNow {
+	vertical-align: middle;
+	justify-content: center;
 }
 
 .mainSlogan {
-	width: 100%;
-	height: 100%;
-	position: absolute;
-	z-index: 0;
-	display: block;
-	top: 0;
+	height: 30%;
+	margin: 7rem auto 2rem;
+}
+
+.subSlogan {
+	height: 20%;
+	width: 50%;
+	margin: 2rem auto; 
+}
+
+.bookNow {
+	height: 10%;
+	margin: 10rem auto 2rem;
+}
+
+.mainSlogan h1 {
+	text-align: center;
+	letter-spacing: 1rem;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.subSlogan h4 {
+	font-family: 'Raleway', sans-serif;
+	text-align: center;
+}
+
+.bookNow h3 {
+	font-family: 'Josefin Sans', sans-serif;
+	text-align: center;
+	text-transform: uppercase;
 }
