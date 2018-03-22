@@ -11,7 +11,7 @@ p {
 	font-family: 'Raleway', sans-serif;
 }
 
-body {
+body.landingPage {
 	background-image: url("img/landingPage.jpeg");
 	background-position: center;
     background-repeat: no-repeat;
@@ -27,6 +27,11 @@ h4.navbarBrand {
 	text-align: right;
 	font-family: 'Josefin Sans', sans-serif;
 	text-transform: uppercase;
+}
+
+h4.navbarBrand a:hover {
+	text-decoration: none;
+  	color: #fff;
 }
 
 .sidebar-nav li a {
@@ -81,4 +86,13 @@ h4.navbarBrand {
 	font-family: 'Josefin Sans', sans-serif;
 	text-align: center;
 	text-transform: uppercase;
+}
+
+.jumbotron {
+	background: url(img/housejumbotron.jpg);
+	background-size: cover;
+	background-position: center;
+	width: 100%;
+	height: 40%;
+	margin: 5rem auto 2rem;
 }
