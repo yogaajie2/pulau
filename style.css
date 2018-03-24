@@ -2,9 +2,17 @@ html, body, .mainSlogan {
 	height: 100%;
 }
 
-h1 {
+h1, h3 {
 	font-family: 'Josefin Sans', sans-serif;
+}
+
+h1 {
 	font-size: 5rem;
+	color: white;
+}
+
+h4 {
+	font-family: 'Raleway', sans-serif;
 }
 
 p {
@@ -16,7 +24,6 @@ body.landingPage {
 	background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    color: white;
 }
 
 header {
@@ -35,18 +42,18 @@ h4.navbarBrand a:hover {
 }
 
 .sidebar-nav li a {
-  font-family: 'Josefin Sans', sans-serif;
-  display: block;
-  text-decoration: none;
-  color: #fff;
+  	font-family: 'Josefin Sans', sans-serif;
+  	display: block;
+  	text-decoration: none;
+  	color: #fff;
 
 }
 
 .sidebar-nav li a:hover {
-  text-decoration: none;
-  color: #fff;
-  background: rgba(255, 255, 255, 0.2);
-  font-family: 'Josefin Sans', sans-serif;
+  	text-decoration: none;
+  	color: #fff;
+  	background: rgba(255, 255, 255, 0.2);
+  	font-family: 'Josefin Sans', sans-serif;
 }
 
 .mainSlogan, .subSlogan, .bookNow {
@@ -80,6 +87,7 @@ h4.navbarBrand a:hover {
 .subSlogan h4 {
 	font-family: 'Raleway', sans-serif;
 	text-align: center;
+	color: white;
 }
 
 .bookNow h3 {

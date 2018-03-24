@@ -23,7 +23,13 @@
     <?php include('header.html') ?>
 
     <div class="jumbotron jumbotron-fluid">
-      <div class="container-fluid"></div>
+      <div class="container-fluid text-center">
+        <h1>THE HOUSE</h1>
+      </div>
+    </div>
+
+    <div class="container text-center">
+      <h4>After a dive into the ocean or a stroll around the Island, our Bungalow is the perfect place to relax with your friends and families.</h4>
     </div>
 
     <!-- Optional JavaScript -->
