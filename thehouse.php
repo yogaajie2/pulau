@@ -22,15 +22,89 @@
     
     <?php include('header.html') ?>
 
-    <div class="jumbotron jumbotron-fluid">
-      <div class="container-fluid text-center">
+    <div class="jumbotron jumbotron-fluid text-center">
         <h1>THE HOUSE</h1>
-      </div>
     </div>
 
-    <div class="container text-center">
-      <h4>After a dive into the ocean or a stroll around the Island, our Bungalow is the perfect place to relax with your friends and families.</h4>
+    <div class="container text-center houseDescription">
+      <h4>Cozy and clean, a perfect place to relax with your friends and families after a dive in the ocean or a stroll around the Island. </h4>
     </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-7">
+
+                <?php include ('standard.html'); ?>
+
+                <div class="container text-left">
+                    <div class="row mt-5 mb-4">
+                        <div class="col">
+                            <p>Properties:</p>
+                        </div>
+                        <div class="col">
+                            <p>Accommodates: 8</p>
+                            <p>Beds: 8 Single(s)</p>
+                        </div>
+                        <div class="col">
+                            <p>size: 32 sq m</p>
+                        </div>
+                    </div>
+                    <div class="row my-4">
+                        <div class="col-4">
+                            <p>More Info:</p>
+                        </div>
+                        <div class="col-8">
+                            <p>The family room provides the warmth, cleanliness and extra space your family and friends needs for a perfect holiday experience.</p>
+                        </div>
+                    </div>
+                    <div class="row my-4">
+                        <div class="col">
+                            <p>Amenities:</p>
+                        </div>
+                        <div class="col">
+                            <p>A/C</p>
+                            <p>Shower</p>
+                            <p>Towels</p>
+                        </div>
+                        <div class="col">
+                            <p>TV</p>
+                            <p>Kitchen</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-1"></div>
+            <div class="col-md-4 sideBook">
+                <div class="container">
+                    <div class="row d-md-block">
+                        <p>From</p>
+                        <h3>Rp600000</h3>
+                        <p>Per Night</p>
+                    </div>
+                    <div class="container">
+                        <h2>Stacked form</h2>
+                        <form action="/action_page.php">
+                            <div class="form-group">
+                              <label for="email">Email:</label>
+                              <input type="email" class="form-control" id="email" placeholder="Enter email" name="email">
+                            </div>
+                            <div class="form-group">
+                              <label for="pwd">Password:</label>
+                              <input type="password" class="form-control" id="pwd" placeholder="Enter password" name="pswd">
+                            </div>
+                            <div class="form-check">
+                              <label class="form-check-label">
+                                <input class="form-check-input" type="checkbox" name="remember"> Remember me
+                              </label>
+                            </div>
+                            <button type="submit" class="btn btn-primary">Submit</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div> 
+    </div>
+      
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->

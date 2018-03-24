@@ -94,6 +94,7 @@ h4.navbarBrand a:hover {
 	font-family: 'Josefin Sans', sans-serif;
 	text-align: center;
 	text-transform: uppercase;
+	color: white;
 }
 
 .jumbotron {
@@ -103,4 +104,9 @@ h4.navbarBrand a:hover {
 	width: 100%;
 	height: 40%;
 	margin: 5rem auto 2rem;
+	align-items: center;
+}
+
+div.houseDescription {
+	margin: 2rem auto;
 }
