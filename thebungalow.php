@@ -22,8 +22,8 @@
     
     <?php include('header.html') ?>
 
-    <div class="jumbotron jumbotron-fluid text-center">
-        <h1>THE HOUSE</h1>
+    <div class="jumbotron jumbotron-fluid text-center houseJumbotron">
+        <h1>THE BUNGALOW</h1>
     </div>
 
     <div class="container text-center houseDescription">
@@ -81,34 +81,34 @@
                         <h3>Rp600000</h3>
                         <p>Per Night</p>
                     </div>
-                    <div class="container">
-                        <h2>Stacked form</h2>
-                        <form action="/action_page.php">
+                    <div class="row">
+                        <?php include('datepicker.html'); ?>
+                    </div>
+                    <div class="row">
+                        <form class="bookForm">
                             <div class="form-group">
-                              <label for="email">Email:</label>
-                              <input type="email" class="form-control" id="email" placeholder="Enter email" name="email">
+                                <label for="numOfPerson">Number of Person</label>
+                                <select class="form-control" id="numOfperson">
+                                  <option>1 Person</option>
+                                  <option>2 Persons</option>
+                                  <option>3 Persons</option>
+                                  <option>4 Persons</option>
+                                  <option>5 Persons</option>
+                                  <option>6 Persons</option>
+                                  <option>7 Persons</option>
+                                  <option>8 Persons</option>
+                                </select>
+                                <button type="button" class="btn btn-light btn-lg btn-block bookButton">Book Now</button>
                             </div>
-                            <div class="form-group">
-                              <label for="pwd">Password:</label>
-                              <input type="password" class="form-control" id="pwd" placeholder="Enter password" name="pswd">
-                            </div>
-                            <div class="form-check">
-                              <label class="form-check-label">
-                                <input class="form-check-input" type="checkbox" name="remember"> Remember me
-                              </label>
-                            </div>
-                            <button type="submit" class="btn btn-primary">Submit</button>
                         </form>
                     </div>
-                </div>
+                </div> 
             </div>
-        </div> 
+        </div>
     </div>
-      
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 
