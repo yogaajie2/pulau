@@ -26,7 +26,7 @@
         <h1>THE BUNGALOW</h1>
     </div>
 
-    <div class="container text-center houseDescription">
+    <div class="container text-center mainDescription">
       <h4>Cozy and clean, a perfect place to relax with your friends and families after a dive in the ocean or a stroll around the Island. </h4>
     </div>
 
