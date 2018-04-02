@@ -41,6 +41,18 @@
             <h4 class="contentTitle">Snorkeling</h4>
             <p class="contentText">Fugit facete urbanitas ut mea, usu salutatus scriptorem ne. Ea alii ubique tibique vel, id qui audiam adolescens. Iudico omittam scriptorem vix ut, cu natum mollis sed. In assentior efficiantur mea. Mei te porro latine contentiones, at duo minim diceret vivendo, solum essent moderatius vim ad. Ea his augue dolorum gloriatur. In eum harum aperiam persius, cu atomorum expetendis eam.</p>
         </div>
+        <div class="row my-4">
+            <h4 class="contentTitle">Fishing</h4>
+            <p class="contentText">Fugit facete urbanitas ut mea, usu salutatus scriptorem ne. Ea alii ubique tibique vel, id qui audiam adolescens. Iudico omittam scriptorem vix ut, cu natum mollis sed. In assentior efficiantur mea. Mei te porro latine contentiones, at duo minim diceret vivendo, solum essent moderatius vim ad. Ea his augue dolorum gloriatur. In eum harum aperiam persius, cu atomorum expetendis eam.</p>
+        </div>
+        <div class="row my-4">
+            <h4 class="contentTitle">Culinary</h4>
+            <p class="contentText">Fugit facete urbanitas ut mea, usu salutatus scriptorem ne. Ea alii ubique tibique vel, id qui audiam adolescens. Iudico omittam scriptorem vix ut, cu natum mollis sed. In assentior efficiantur mea. Mei te porro latine contentiones, at duo minim diceret vivendo, solum essent moderatius vim ad. Ea his augue dolorum gloriatur. In eum harum aperiam persius, cu atomorum expetendis eam.</p>
+        </div>
+        <div class="row my-4">
+            <h4 class="contentTitle">Relax</h4>
+            <p class="contentText">Fugit facete urbanitas ut mea, usu salutatus scriptorem ne. Ea alii ubique tibique vel, id qui audiam adolescens. Iudico omittam scriptorem vix ut, cu natum mollis sed. In assentior efficiantur mea. Mei te porro latine contentiones, at duo minim diceret vivendo, solum essent moderatius vim ad. Ea his augue dolorum gloriatur. In eum harum aperiam persius, cu atomorum expetendis eam.</p>
+        </div>
     </div>
 
     <!-- Optional JavaScript -->

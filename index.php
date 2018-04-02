@@ -36,7 +36,7 @@
 
     <div class="row">
     	<div class="container bookNow">
-    		<h3>Book Now</h3>
+    		<a href="thebungalow.php"><h3>Book Now</h3></a>
     	</div>
     </div>
 
