@@ -98,7 +98,7 @@
                                   <option>7 Persons</option>
                                   <option>8 Persons</option>
                                 </select>
-                                <button type="button" class="btn btn-light btn-lg btn-block bookButton">Book Now</button>
+                                <a class="btn btn-light btn-lg btn-block bookButton" href="bookingForm.php" role="button">Book Now</a>
                             </div>
                         </form>
                     </div>

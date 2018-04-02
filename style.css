@@ -121,7 +121,7 @@ form.bookForm {
 	font-family: 'Raleway', sans-serif;
 }
 
-button.bookButton {
+a.bookButton {
 	margin: 2rem auto;
 	background-color: #fba03e;
 	font-weight: bold;
@@ -150,4 +150,12 @@ div.contentCol {
 
 h2.contentColText {
 	color: white;
+}
+
+div.formContainer {
+	margin: 6rem auto 2rem;
+}
+
+h1.loginText {
+	color: black;
 }	
