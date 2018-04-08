@@ -93,15 +93,15 @@ h4.navbarBrand a:hover {
 }
 
 .houseJumbotron {
-	background: url(img/housejumbotron.jpg);
+	background: url(img/jumbotron/housejumbotron.jpg);
 }
 
 .islandJumbotron {
-	background: url(img/islandjumbotron.jpg);
+	background: url(img/jumbotron/islandjumbotron.jpg);
 }
 
 .activitiesJumbotron {
-	background: url(img/activitiesjumbotron.jpg);
+	background: url(img/jumbotron/activitiesjumbotron.jpg);
 }
 
 .houseJumbotron, .islandJumbotron, .activitiesJumbotron {
@@ -134,11 +134,11 @@ div.contentRow {
 }
 
 div.contentColHistory {
-	background-image: url('img/history.jpg');
+	background-image: url('img/contents/history.jpg');
 }
 
 div.contentColCulture {
-	background-image: url('img/culture.jpg');
+	background-image: url('img/contents/culture.jpg');
 }
 
 div.contentCol {

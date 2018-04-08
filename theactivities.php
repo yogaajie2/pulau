@@ -11,9 +11,9 @@
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
     <!-- Sidebar CSS -->
     <link href="css/simple-sidebar.css" rel="stylesheet">
-    <!-- Owl Carousel CSS -->
-    <link rel="stylesheet" href="owlcarousel/owl.carousel.min.css">
-    <link rel="stylesheet" href="owlcarousel/owl.theme.default.min.css">
+    <!-- OwlCarousel CSS -->
+    <link rel="stylesheet" href="dist/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="dist/assets/owl.theme.default.min.css">
     <!-- Main CSS -->
     <link rel="stylesheet" type="text/css" href="style.css">
     <!-- Google Fonts -->
@@ -30,28 +30,56 @@
     </div>
 
     <div class="container text-center mainDescription">
-        <h4>Lorem ipsum dolor sit amet, temporibus reprehendunt eu per. Pro ex quando quidam lobortis, summo meliore qui ea. Eirmod dolorum maiorum qui ea, ignota lobortis referrentur an mel. Cu tacimates adolescens vix. Noster menandri id sea, has diam malis in. Ius ad diam nusquam definitionem, pri aliquando consequuntur an.</h4>
+        <h4>Underwater activities, Watersports like jet-skis, banana boats. Plenty of ways to relax yourself and forget about anything else. Could Paradise be any closer than this?</h4>
     </div>
 
     <div class="container">
         <div class="row my-4">
-            <p class="contentText">Lorem ipsum dolor sit amet, an mel convenire periculis contentiones, fugit latine sadipscing vel ea. Mea mazim scripserit cotidieque te, tale convenire tractatos an nec. Ea usu suas probo, solum singulis pri ne.</p>
+            <p class="contentText">Below are some of the activities you can do in Pramuka Island. These are just a small part. There are way more stuff to do in the Island. You just have to explore a little bit.</p>
         </div>
         <div class="row my-4">
             <h4 class="contentTitle">Snorkeling</h4>
-            <p class="contentText">Fugit facete urbanitas ut mea, usu salutatus scriptorem ne. Ea alii ubique tibique vel, id qui audiam adolescens. Iudico omittam scriptorem vix ut, cu natum mollis sed. In assentior efficiantur mea. Mei te porro latine contentiones, at duo minim diceret vivendo, solum essent moderatius vim ad. Ea his augue dolorum gloriatur. In eum harum aperiam persius, cu atomorum expetendis eam.</p>
+            <p class="contentText">Snorkeling and diving spots are scattered near Pramuka Island. All of the ecosystem are well kept and maintained. An instructor/guide is ready onsite so you don't have to be worried.</p>
+            <div class="owl-carousel owl-theme">
+                <div><img src="img/sliders/snorkel/snorkel1.jpg"></div>
+                <div><img src="img/sliders/snorkel/snorkel2.jpg"></div>
+                <div><img src="img/sliders/snorkel/snorkel3.jpg"></div>
+                <div><img src="img/sliders/snorkel/snorkel4.jpg"></div>
+                <div><img src="img/sliders/snorkel/snorkel5.jpg"></div>
+            </div>
         </div>
         <div class="row my-4">
             <h4 class="contentTitle">Fishing</h4>
-            <p class="contentText">Fugit facete urbanitas ut mea, usu salutatus scriptorem ne. Ea alii ubique tibique vel, id qui audiam adolescens. Iudico omittam scriptorem vix ut, cu natum mollis sed. In assentior efficiantur mea. Mei te porro latine contentiones, at duo minim diceret vivendo, solum essent moderatius vim ad. Ea his augue dolorum gloriatur. In eum harum aperiam persius, cu atomorum expetendis eam.</p>
+            <p class="contentText">Fishing has never this enjoyable. Plenty of species to catch, dozens of spots. The lively atmosphere of the Island. You will never feel the time fly by until suddenly you see the sun start setting. A perfect way to end the day.</p>
+            <div class="owl-carousel owl-theme">
+                <div><img src="img/sliders/fishing/fishing1.jpg"></div>
+                <div><img src="img/sliders/fishing/fishing2.jpg"></div>
+                <div><img src="img/sliders/fishing/fishing3.jpeg"></div>
+                <div><img src="img/sliders/fishing/fishing4.jpeg"></div>
+                <div><img src="img/sliders/fishing/fishing5.jpeg"></div>
+            </div>
         </div>
         <div class="row my-4">
             <h4 class="contentTitle">Culinary</h4>
-            <p class="contentText">Fugit facete urbanitas ut mea, usu salutatus scriptorem ne. Ea alii ubique tibique vel, id qui audiam adolescens. Iudico omittam scriptorem vix ut, cu natum mollis sed. In assentior efficiantur mea. Mei te porro latine contentiones, at duo minim diceret vivendo, solum essent moderatius vim ad. Ea his augue dolorum gloriatur. In eum harum aperiam persius, cu atomorum expetendis eam.</p>
+            <p class="contentText">Enjoy authentic Asian and seafood cuisine in whatever style you want. Grilled, spicy, fresh from the ocean. Truly  a satisfying and unforgettable culinary experience.</p>
+            <div class="owl-carousel owl-theme">
+                <div><img src="img/sliders/food/food1.jpg"></div>
+                <div><img src="img/sliders/food/food2.jpg"></div>
+                <div><img src="img/sliders/food/food3.jpg"></div>
+                <div><img src="img/sliders/food/food4.jpg"></div>
+                <div><img src="img/sliders/food/food5.jpg"></div>
+            </div>
         </div>
         <div class="row my-4">
             <h4 class="contentTitle">Relax</h4>
-            <p class="contentText">Fugit facete urbanitas ut mea, usu salutatus scriptorem ne. Ea alii ubique tibique vel, id qui audiam adolescens. Iudico omittam scriptorem vix ut, cu natum mollis sed. In assentior efficiantur mea. Mei te porro latine contentiones, at duo minim diceret vivendo, solum essent moderatius vim ad. Ea his augue dolorum gloriatur. In eum harum aperiam persius, cu atomorum expetendis eam.</p>
+            <p class="contentText">Let off some steam. Leave all your daily problems and worries away and relieve yourself. Physically and mentally. There are a lot of ways to relax in Pramuka Island. Sunbathing on the white sands? Sure. Yoga in the morning? Go ahead. A little swim near the Bungalow? Yes please. A cold beer and BBQ with friends? We'll set it up.</p>
+            <div class="owl-carousel owl-theme">
+                <div><img src="img/sliders/relax/relax1.jpg"></div>
+                <div><img src="img/sliders/relax/relax2.jpg"></div>
+                <div><img src="img/sliders/relax/relax3.jpg"></div>
+                <div><img src="img/sliders/relax/relax4.jpg"></div>
+                <div><img src="img/sliders/relax/relax5.jpg"></div>
+            </div>
         </div>
     </div>
 
@@ -61,8 +89,24 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 
-    <!-- Owl Carousel JS -->
-    <script src="owlcarousel/owl.carousel.min.js"></script>
+    <!-- OwlCarousel JS -->
+    <script src="dist/owl.carousel.min.js"></script>
+
+    <script>
+        $(document).ready(function(){
+            $(".owl-carousel").owlCarousel({
+                center: true,
+                items:2,
+                loop:true,
+                margin:10,
+                responsive:{
+                    600:{
+                        items:3
+                    }
+                }
+            });
+        });
+    </script>
 
     <!-- Menu Toggle Script -->
     <script>

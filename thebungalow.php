@@ -82,6 +82,10 @@
                         <p>Per Night</p>
                     </div>
                     <div class="row">
+                        <div id="f2b-widget"><script src="https://www.freetobook.com/affiliates/dynamicWidget/js/widget-js.php?w_id=32306&amp;w_tkn=64tUQyBC3KwbUdOmAEkD8woylVPEMz8phXI34VfayKwaouqNoDUVdbtKC41v4" type="text/javascript"></script></div>
+                    </div>
+                    <!--
+                    <div class="row">
                         <?php include('datepicker.html'); ?>
                     </div>
                     <div class="row">
@@ -102,6 +106,7 @@
                             </div>
                         </form>
                     </div>
+                    -->
                 </div> 
             </div>
         </div>
@@ -109,6 +114,7 @@
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 

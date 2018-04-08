@@ -27,7 +27,7 @@
     </div>
 
     <div class="container text-center mainDescription">
-      <h4>Lorem ipsum dolor sit amet, amet scripserit ad vim, alii tale senserit mea et. Noster albucius scriptorem has no, ne sit affert malorum indoctum. Iisque tibique expetenda id quo. Quo id lorem putant, no vidisse accumsan eos. An magna reformidans mea. Vis essent vituperata repudiandae at. Sanctus antiopam cum ut.</h4>
+      <h4>Get the most of your visit. forget your problems, find new fresh inspirations. Take a deep breath and start exploring.</h4>
     </div>
 
     <div class="container-fluid topContent">
@@ -67,11 +67,11 @@
             <div class="col">
                 <h4 class="contentTitle">Lots to Do, Lots to See</h4>
                 <p class="contentText">
-                    Lorem ipsum dolor sit amet, quo commune imperdiet ne, an est ornatus lobortis. Ius phaedrum sapientem adversarium ut, quodsi iuvaret mea ea. In sed labitur efficiendi, ea placerat sapientem abhorreant sea. Nostrud conceptam has eu. Magna erant delectus no nec, has consulatu ullamcorper consectetuer ea. Sit facilis concludaturque ei.
+                    Tired of your daily routines? Don't be afraid and try new activities like underwater diving, snorkeling, or a more relaxing ones like fishing and sunbathing. Maybe something more extreme? There are also lots of various watersports available.
                 </p>
                 <br>
                 <p>
-                    Id duo facete fierent consectetuer. Qui te nisl suscipit, vix et voluptatum efficiantur comprehensam. Vis agam solum invenire an, labores hendrerit conclusionemque in pri, usu no diam atqui. Quo alia saperet ex, ea vide quaestio nec.
+                    Get fresh new inspirations and Instagram worthy spots to visit. Interesting and unique places are scattered throughout Pramuka Island. Every time, there's always new places or stories to tell.
                 </p>
             </div>
         </div>
@@ -89,9 +89,8 @@
                     <div class="col-md-4">
                         <div class="card">
                             <div class="card-body">
-                                <h3 class="card-title">Snorkeling</h3>
-                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                <a href="#" class="card-link">Learn More</a>
+                                <h3 class="card-title">Snorkeling &amp; Diving Spots</h3>
+                                <p class="card-text">Enjoy an unforgettable underwater experience. Colorful reefs, schools of fish and many other kinds of wildlife.</p>
                             </div>
                         </div>
                     </div>
@@ -99,28 +98,28 @@
                 <div class="row my-4">
                     <div class="col-md">
                         <div class="card">
+                            <img class="card-img-top" src="img/cards/card-sunset.jpg" alt="Stunning Sunset in Pramuka Island">
                             <div class="card-body">
-                                <h3 class="card-title">Snorkeling</h3>
-                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                <a href="#" class="card-link">Learn More</a>
+                                <h3 class="card-title">Stunning Sunsets</h3>
+                                <p class="card-text">Witness the beautiful sunsets everyday. In our Bungalow, you get the front seat.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-md">
                         <div class="card">
+                            <img class="card-img-top" src="img/cards/card-vista.jpg" alt="Beautiful Beach in Pramuka Island">
                             <div class="card-body">
-                                <h3 class="card-title">Snorkeling</h3>
-                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                <a href="#" class="card-link">Learn More</a>
+                                <h3 class="card-title">Beautiful Vistas</h3>
+                                <p class="card-text">The emerald green ocean. Blue skies. The warm yet relaxing atmosphere. Every part of the Island is like a masterpiece.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-md">
                         <div class="card">
+                            <img class="card-img-top" src="img/cards/card-locals.jpg" alt="Friendly Locals in Pramuka Island">
                             <div class="card-body">
-                                <h3 class="card-title">Snorkeling</h3>
-                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                <a href="#" class="card-link">Learn More</a>
+                                <h3 class="card-title">Friendly Locals</h3>
+                                <p class="card-text">Feel right at home wherever you are. Every Island Locals will always welcome you like a big whole family.</p>
                             </div>
                         </div>
                     </div>
@@ -129,16 +128,14 @@
                     <div class="col-md-4">
                         <div class="card">
                             <div class="card-body">
-                                <h3 class="card-title">Snorkeling</h3>
-                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                <a href="#" class="card-link">Learn More</a>
+                                <h3 class="card-title">Enjoy your visit to the fullest.</h3>
+                                <p class="card-text">Diving. Snorkeling. Bathing under the tropical sun. Banana Boats. Jet-skis. Watersports. You name it, we have it. Never get bored, There's always a new activity to try or places to explore around the Island.</p>
+                                <a href="theactivities.php" class="card-link">Read More</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-8">
-                        <div class="embed-responsive embed-responsive-16by9">
-                            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/4aj5byPW3d8" allowfullscreen></iframe>
-                        </div>
+                        <img src="img/contents/enjoy.jpg" class="img-fluid" alt="2 Girls Running in the Beach of Pramuka Island">
                     </div>
                 </div>
             </div>
