@@ -8,9 +8,9 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <!-- Font Awesome CSS -->
-    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-    <!-- Sidebar CSS -->
-    <link href="css/simple-sidebar.css" rel="stylesheet">
+    <link href="/fontawesome/css/fontawesome-all.css" rel="stylesheet">
+    <!-- Navbar CSS -->
+    <link rel="stylesheet" href="navbar/css/navbar.css">
     <!-- OwlCarousel CSS -->
     <link rel="stylesheet" href="dist/assets/owl.carousel.min.css">
     <link rel="stylesheet" href="dist/assets/owl.theme.default.min.css">
@@ -22,64 +22,74 @@
     <title>Sunset Bungalow Pramuka Island</title>
   </head>
   <body>
+    <div class="site-container">
+        <div class="site-pusher">
     
-    <?php include('header.html') ?>
+            <?php include('navbar/navbar.html') ?>
 
-    <div class="jumbotron jumbotron-fluid text-center activitiesJumbotron">
-        <h1>THE ACTIVITIES</h1>
-    </div>
+            <div class="site-content">
+                <div class="jumbotron jumbotron-fluid text-center activitiesJumbotron">
+                    <h1>THE ACTIVITIES</h1>
+                </div>
 
-    <div class="container text-center mainDescription">
-        <h4>Underwater activities, Watersports like jet-skis, banana boats. Plenty of ways to relax yourself and forget about anything else. Could Paradise be any closer than this?</h4>
-    </div>
+                <div class="container text-center mainDescription">
+                    <h4>Underwater activities, Watersports like jet-skis, banana boats. Plenty of ways to relax yourself and forget about anything else. Could Paradise be any closer than this?</h4>
+                </div>
 
-    <div class="container">
-        <div class="row my-4">
-            <p class="contentText">Below are some of the activities you can do in Pramuka Island. These are just a small part. There are way more stuff to do in the Island. You just have to explore a little bit.</p>
-        </div>
-        <div class="row my-4">
-            <h4 class="contentTitle">Snorkeling</h4>
-            <p class="contentText">Snorkeling and diving spots are scattered near Pramuka Island. All of the ecosystem are well kept and maintained. An instructor/guide is ready onsite so you don't have to be worried.</p>
-            <div class="owl-carousel owl-theme">
-                <div><img src="img/sliders/snorkel/snorkel1.jpg"></div>
-                <div><img src="img/sliders/snorkel/snorkel2.jpg"></div>
-                <div><img src="img/sliders/snorkel/snorkel3.jpg"></div>
-                <div><img src="img/sliders/snorkel/snorkel4.jpg"></div>
-                <div><img src="img/sliders/snorkel/snorkel5.jpg"></div>
+                <div class="container">
+                    <div class="row my-4">
+                        <p class="contentText">Below are some of the activities you can do in Pramuka Island. These are just a small part. There are way more stuff to do in the Island. You just have to explore a little bit.</p>
+                    </div>
+                    <div class="row my-4">
+                        <h4 class="contentTitle">Snorkeling</h4>
+                        <p class="contentText">Snorkeling and diving spots are scattered near Pramuka Island. All of the ecosystem are well kept and maintained. An instructor/guide is ready onsite so you don't have to be worried.</p>
+                        <div class="owl-carousel owl-theme">
+                            <div><img src="img/sliders/snorkel/snorkel1.jpg"></div>
+                            <div><img src="img/sliders/snorkel/snorkel2.jpg"></div>
+                            <div><img src="img/sliders/snorkel/snorkel3.jpg"></div>
+                            <div><img src="img/sliders/snorkel/snorkel4.jpg"></div>
+                            <div><img src="img/sliders/snorkel/snorkel5.jpg"></div>
+                        </div>
+                    </div>
+                    <div class="row my-4">
+                        <h4 class="contentTitle">Fishing</h4>
+                        <p class="contentText">Fishing has never this enjoyable. Plenty of species to catch, dozens of spots. The lively atmosphere of the Island. You will never feel the time fly by until suddenly you see the sun start setting. A perfect way to end the day.</p>
+                        <div class="owl-carousel owl-theme">
+                            <div><img src="img/sliders/fishing/fishing1.jpg"></div>
+                            <div><img src="img/sliders/fishing/fishing2.jpg"></div>
+                            <div><img src="img/sliders/fishing/fishing3.jpeg"></div>
+                            <div><img src="img/sliders/fishing/fishing4.jpeg"></div>
+                            <div><img src="img/sliders/fishing/fishing5.jpeg"></div>
+                        </div>
+                    </div>
+                    <div class="row my-4">
+                        <h4 class="contentTitle">Culinary</h4>
+                        <p class="contentText">Enjoy authentic Asian and seafood cuisine in whatever style you want. Grilled, spicy, fresh from the ocean. Truly  a satisfying and unforgettable culinary experience.</p>
+                        <div class="owl-carousel owl-theme">
+                            <div><img src="img/sliders/food/food1.jpg"></div>
+                            <div><img src="img/sliders/food/food2.jpg"></div>
+                            <div><img src="img/sliders/food/food3.jpg"></div>
+                            <div><img src="img/sliders/food/food4.jpg"></div>
+                            <div><img src="img/sliders/food/food5.jpg"></div>
+                        </div>
+                    </div>
+                    <div class="row my-4">
+                        <h4 class="contentTitle">Relax</h4>
+                        <p class="contentText">Let off some steam. Leave all your daily problems and worries away and relieve yourself. Physically and mentally. There are a lot of ways to relax in Pramuka Island. Sunbathing on the white sands? Sure. Yoga in the morning? Go ahead. A little swim near the Bungalow? Yes please. A cold beer and BBQ with friends? We'll set it up.</p>
+                        <div class="owl-carousel owl-theme">
+                            <div><img src="img/sliders/relax/relax1.jpg"></div>
+                            <div><img src="img/sliders/relax/relax2.jpg"></div>
+                            <div><img src="img/sliders/relax/relax3.jpg"></div>
+                            <div><img src="img/sliders/relax/relax4.jpg"></div>
+                            <div><img src="img/sliders/relax/relax5.jpg"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <?php include('footer.html'); ?>
+                
             </div>
-        </div>
-        <div class="row my-4">
-            <h4 class="contentTitle">Fishing</h4>
-            <p class="contentText">Fishing has never this enjoyable. Plenty of species to catch, dozens of spots. The lively atmosphere of the Island. You will never feel the time fly by until suddenly you see the sun start setting. A perfect way to end the day.</p>
-            <div class="owl-carousel owl-theme">
-                <div><img src="img/sliders/fishing/fishing1.jpg"></div>
-                <div><img src="img/sliders/fishing/fishing2.jpg"></div>
-                <div><img src="img/sliders/fishing/fishing3.jpeg"></div>
-                <div><img src="img/sliders/fishing/fishing4.jpeg"></div>
-                <div><img src="img/sliders/fishing/fishing5.jpeg"></div>
-            </div>
-        </div>
-        <div class="row my-4">
-            <h4 class="contentTitle">Culinary</h4>
-            <p class="contentText">Enjoy authentic Asian and seafood cuisine in whatever style you want. Grilled, spicy, fresh from the ocean. Truly  a satisfying and unforgettable culinary experience.</p>
-            <div class="owl-carousel owl-theme">
-                <div><img src="img/sliders/food/food1.jpg"></div>
-                <div><img src="img/sliders/food/food2.jpg"></div>
-                <div><img src="img/sliders/food/food3.jpg"></div>
-                <div><img src="img/sliders/food/food4.jpg"></div>
-                <div><img src="img/sliders/food/food5.jpg"></div>
-            </div>
-        </div>
-        <div class="row my-4">
-            <h4 class="contentTitle">Relax</h4>
-            <p class="contentText">Let off some steam. Leave all your daily problems and worries away and relieve yourself. Physically and mentally. There are a lot of ways to relax in Pramuka Island. Sunbathing on the white sands? Sure. Yoga in the morning? Go ahead. A little swim near the Bungalow? Yes please. A cold beer and BBQ with friends? We'll set it up.</p>
-            <div class="owl-carousel owl-theme">
-                <div><img src="img/sliders/relax/relax1.jpg"></div>
-                <div><img src="img/sliders/relax/relax2.jpg"></div>
-                <div><img src="img/sliders/relax/relax3.jpg"></div>
-                <div><img src="img/sliders/relax/relax4.jpg"></div>
-                <div><img src="img/sliders/relax/relax5.jpg"></div>
-            </div>
+            <div class="site-cache" id="site-cache"></div>
         </div>
     </div>
 
@@ -108,12 +118,7 @@
         });
     </script>
 
-    <!-- Menu Toggle Script -->
-    <script>
-    $("#menu-toggle").click(function(e) {
-        e.preventDefault();
-        $("#wrapper").toggleClass("toggled");
-    });
-    </script>
+    <!-- Navbar Toggle Script -->
+    <script  src="navbar/js/navbar.js"></script>
   </body>
 </html>

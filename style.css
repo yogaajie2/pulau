@@ -1,5 +1,5 @@
 .mainSlogan {
-	height: 100%;
+	height: 100%
 }
 
 h1, h3, h2 {
@@ -15,11 +15,21 @@ h4, p, {
 	font-family: 'Raleway', sans-serif;
 }
 
-body.landingPage {
-	background-image: url("img/landingPage.jpeg");
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #c5cae9;
+}
+
+section.landingPage {
+	background-image: url("img/landingpage.jpeg");
+	background-repeat: no-repeat;
+	background-size: cover;
 	background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
 }
 
 header {
@@ -52,7 +62,7 @@ h4.navbarBrand a:hover {
   	font-family: 'Josefin Sans', sans-serif;
 }
 
-.mainSlogan, .subSlogan, .bookNow {
+.mainSlogan, .subSlogan, .bookNow, {
 	vertical-align: middle;
 	justify-content: center;
 }
@@ -70,7 +80,7 @@ h4.navbarBrand a:hover {
 
 .bookNow {
 	height: 10%;
-	margin: 10rem auto 2rem;
+	margin: 5rem auto 2rem;
 }
 
 .mainSlogan h1 {
@@ -92,12 +102,17 @@ h4.navbarBrand a:hover {
 	color: white;
 }
 
+.bookNow h3:hover {
+	text-decoration: none;
+  	color: #c5cae9;
+}
+
 .houseJumbotron {
-	background: url(img/jumbotron/housejumbotron.jpg);
+	background: url(img/jumbotron/sunset.jpg);
 }
 
 .islandJumbotron {
-	background: url(img/jumbotron/islandjumbotron.jpg);
+	background: url(img/jumbotron/pulau.jpg);
 }
 
 .activitiesJumbotron {
@@ -109,12 +124,19 @@ h4.navbarBrand a:hover {
 	background-position: center;
 	width: 100%;
 	height: 40%;
-	margin: 5rem auto 2rem;
 	align-items: center;
 }
 
 div.mainDescription {
 	margin: 2rem auto;
+}
+
+.mobileBook {
+	display: none;
+}
+
+div.ftb_mobile {
+	width: auto;
 }
 
 form.bookForm {
@@ -158,4 +180,29 @@ div.formContainer {
 
 h1.loginText {
 	color: black;
+}
+
+footer {
+	background-color: #cc6d13;
+}
+
+@media only screen and (max-width: 768px) {
+	.mainSlogan h1 {
+	text-align: center;
+	letter-spacing: 0.3rem;
+	font-weight: bold;
+	text-transform: uppercase;
+	}
+
+	.sideBook {
+		display: none;
+	}
+
+	.mobileBook {
+		display: flex;
+	}
+
+	.topVideo {
+		display: none;
+	}
 }	
