@@ -38,50 +38,60 @@
 
                 <div class="container">
                     <div class="row my-4">
-                        <p class="contentText">Below are some of the activities you can do in Pramuka Island. These are just a small part. There are way more stuff to do in the Island. You just have to explore a little bit.</p>
-                    </div>
-                    <div class="row my-4">
-                        <h4 class="contentTitle">Snorkeling</h4>
-                        <p class="contentText">Snorkeling and diving spots are scattered near Pramuka Island. All of the ecosystem are well kept and maintained. An instructor/guide is ready onsite so you don't have to be worried.</p>
-                        <div class="owl-carousel owl-theme">
-                            <div><img src="img/sliders/snorkel/snorkel1.jpg"></div>
-                            <div><img src="img/sliders/snorkel/snorkel2.jpg"></div>
-                            <div><img src="img/sliders/snorkel/snorkel3.jpg"></div>
-                            <div><img src="img/sliders/snorkel/snorkel4.jpg"></div>
-                            <div><img src="img/sliders/snorkel/snorkel5.jpg"></div>
+                        <div class="col">
+                            <p class="contentText">Below are some of the activities you can do in Pramuka Island. These are just a small part. There are way more stuff to do in the Island. You just have to explore a little bit.</p>
                         </div>
                     </div>
                     <div class="row my-4">
-                        <h4 class="contentTitle">Fishing</h4>
-                        <p class="contentText">Fishing has never this enjoyable. Plenty of species to catch, dozens of spots. The lively atmosphere of the Island. You will never feel the time fly by until suddenly you see the sun start setting. A perfect way to end the day.</p>
-                        <div class="owl-carousel owl-theme">
-                            <div><img src="img/sliders/fishing/fishing1.jpg"></div>
-                            <div><img src="img/sliders/fishing/fishing2.jpg"></div>
-                            <div><img src="img/sliders/fishing/fishing3.jpeg"></div>
-                            <div><img src="img/sliders/fishing/fishing4.jpeg"></div>
-                            <div><img src="img/sliders/fishing/fishing5.jpeg"></div>
+                        <div class="col">
+                            <h4 class="contentTitle">Snorkeling</h4>
+                            <p class="contentText">Snorkeling and diving spots are scattered near Pramuka Island. All of the ecosystem are well kept and maintained. An instructor/guide is ready onsite so you don't have to be worried.</p>
+                            <div class="owl-carousel owl-theme">
+                                <div><img src="img/sliders/snorkel/snorkel1.jpg"></div>
+                                <div><img src="img/sliders/snorkel/snorkel2.jpg"></div>
+                                <div><img src="img/sliders/snorkel/snorkel3.jpg"></div>
+                                <div><img src="img/sliders/snorkel/snorkel4.jpg"></div>
+                                <div><img src="img/sliders/snorkel/snorkel5.jpg"></div>
+                            </div>
                         </div>
                     </div>
                     <div class="row my-4">
-                        <h4 class="contentTitle">Culinary</h4>
-                        <p class="contentText">Enjoy authentic Asian and seafood cuisine in whatever style you want. Grilled, spicy, fresh from the ocean. Truly  a satisfying and unforgettable culinary experience.</p>
-                        <div class="owl-carousel owl-theme">
-                            <div><img src="img/sliders/food/food1.jpg"></div>
-                            <div><img src="img/sliders/food/food2.jpg"></div>
-                            <div><img src="img/sliders/food/food3.jpg"></div>
-                            <div><img src="img/sliders/food/food4.jpg"></div>
-                            <div><img src="img/sliders/food/food5.jpg"></div>
+                        <div class="col">
+                            <h4 class="contentTitle">Fishing</h4>
+                            <p class="contentText">Fishing has never this enjoyable. Plenty of species to catch, dozens of spots. The lively atmosphere of the Island. You will never feel the time fly by until suddenly you see the sun start setting. A perfect way to end the day.</p>
+                            <div class="owl-carousel owl-theme">
+                                <div><img src="img/sliders/fishing/fishing1.jpg"></div>
+                                <div><img src="img/sliders/fishing/fishing2.jpg"></div>
+                                <div><img src="img/sliders/fishing/fishing3.jpeg"></div>
+                                <div><img src="img/sliders/fishing/fishing4.jpeg"></div>
+                                <div><img src="img/sliders/fishing/fishing5.jpeg"></div>
+                            </div>
                         </div>
                     </div>
                     <div class="row my-4">
-                        <h4 class="contentTitle">Relax</h4>
-                        <p class="contentText">Let off some steam. Leave all your daily problems and worries away and relieve yourself. Physically and mentally. There are a lot of ways to relax in Pramuka Island. Sunbathing on the white sands? Sure. Yoga in the morning? Go ahead. A little swim near the Bungalow? Yes please. A cold beer and BBQ with friends? We'll set it up.</p>
-                        <div class="owl-carousel owl-theme">
-                            <div><img src="img/sliders/relax/relax1.jpg"></div>
-                            <div><img src="img/sliders/relax/relax2.jpg"></div>
-                            <div><img src="img/sliders/relax/relax3.jpg"></div>
-                            <div><img src="img/sliders/relax/relax4.jpg"></div>
-                            <div><img src="img/sliders/relax/relax5.jpg"></div>
+                        <div class="col">
+                            <h4 class="contentTitle">Culinary</h4>
+                            <p class="contentText">Enjoy authentic Asian and seafood cuisine in whatever style you want. Grilled, spicy, fresh from the ocean. Truly  a satisfying and unforgettable culinary experience.</p>
+                            <div class="owl-carousel owl-theme">
+                                <div><img src="img/sliders/food/food1.jpg"></div>
+                                <div><img src="img/sliders/food/food2.jpg"></div>
+                                <div><img src="img/sliders/food/food3.jpg"></div>
+                                <div><img src="img/sliders/food/food4.jpg"></div>
+                                <div><img src="img/sliders/food/food5.jpg"></div>
+                            </div> 
+                        </div>
+                    </div>
+                    <div class="row my-4">
+                        <div class="col">
+                            <h4 class="contentTitle">Relax</h4>
+                            <p class="contentText">Let off some steam. Leave all your daily problems and worries away and relieve yourself. Physically and mentally. There are a lot of ways to relax in Pramuka Island. Sunbathing on the white sands? Sure. Yoga in the morning? Go ahead. A little swim near the Bungalow? Yes please. A cold beer and BBQ with friends? We'll set it up.</p>
+                            <div class="owl-carousel owl-theme">
+                                <div><img src="img/sliders/relax/relax1.jpg"></div>
+                                <div><img src="img/sliders/relax/relax2.jpg"></div>
+                                <div><img src="img/sliders/relax/relax3.jpg"></div>
+                                <div><img src="img/sliders/relax/relax4.jpg"></div>
+                                <div><img src="img/sliders/relax/relax5.jpg"></div>
+                            </div>
                         </div>
                     </div>
                 </div>

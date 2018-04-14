@@ -6,6 +6,10 @@ h1, h3, h2 {
 	font-family: 'Josefin Sans', sans-serif;
 }
 
+h3 {
+	color: #fff;
+}	
+
 h1 {
 	font-size: 5rem;
 	color: white;
@@ -27,6 +31,13 @@ a:hover {
 
 section.landingPage {
 	background-image: url("img/landingpage.jpeg");
+}
+
+section.contactPage {
+	background-image: url("img/contactpage.jpg");
+}
+
+section.landingPage, .contactPage {
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
@@ -62,7 +73,7 @@ h4.navbarBrand a:hover {
   	font-family: 'Josefin Sans', sans-serif;
 }
 
-.mainSlogan, .subSlogan, .bookNow, {
+.mainSlogan, .mainContact, .subSlogan, .subContact .bookNow, {
 	vertical-align: middle;
 	justify-content: center;
 }
@@ -72,10 +83,20 @@ h4.navbarBrand a:hover {
 	margin: 7rem auto 2rem;
 }
 
+.mainContact {
+	height: 50%;
+	margin: 7rem auto 2rem;
+}
+
 .subSlogan {
 	height: 20%;
 	width: 50%;
 	margin: 2rem auto; 
+}
+
+.subContact {
+	height: 50%;
+	margin: 2rem auto auto;
 }
 
 .bookNow {
@@ -88,6 +109,16 @@ h4.navbarBrand a:hover {
 	letter-spacing: 1rem;
 	font-weight: bold;
 	text-transform: uppercase;
+}
+
+.mainContact h1 {
+	font-size: 5rem;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.mainContact h4 {
+	text-align: center;
 }
 
 .subSlogan h4 {
@@ -119,7 +150,11 @@ h4.navbarBrand a:hover {
 	background: url(img/jumbotron/activitiesjumbotron.jpg);
 }
 
-.houseJumbotron, .islandJumbotron, .activitiesJumbotron {
+.galleryJumbotron {
+	background: url(img/jumbotron/galleryjumbotron.jpg);
+}
+
+.houseJumbotron, .islandJumbotron, .activitiesJumbotron, .galleryJumbotron {
 	background-size: cover;
 	background-position: center;
 	width: 100%;
@@ -133,6 +168,10 @@ div.mainDescription {
 
 .mobileBook {
 	display: none;
+}
+
+h3.bookPrice {
+	color: #000;
 }
 
 div.ftb_mobile {
@@ -182,16 +221,33 @@ h1.loginText {
 	color: black;
 }
 
-footer {
-	background-color: #cc6d13;
+div.contactText {
+	color: #fff;
 }
 
-@media only screen and (max-width: 768px) {
+div.contactText h4 {
+	font-size: 2rem;
+}
+
+footer {
+	background-color: #cc6d13;
+	color: #fff;
+}
+
+@media only screen and (max-width: 767px) {
+	h1 {
+		font-size: 4rem;
+	}
+
 	.mainSlogan h1 {
-	text-align: center;
-	letter-spacing: 0.3rem;
-	font-weight: bold;
-	text-transform: uppercase;
+		text-align: center;
+		letter-spacing: 0.1rem;
+		font-weight: bold;
+		text-transform: uppercase;
+	}
+
+	.mainContact h1 {
+		font-size: 3rem;
 	}
 
 	.sideBook {

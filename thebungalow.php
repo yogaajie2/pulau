@@ -90,7 +90,7 @@
                             <div class="container">
                                 <div class="row d-md-block">
                                     <p>From</p>
-                                    <h3>Rp600000</h3>
+                                    <h3 style="color: #000;">Rp600000</h3>
                                     <p>Per Night</p>
                                 </div>
                                 <div class="row">

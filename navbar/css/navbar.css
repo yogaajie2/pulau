@@ -36,7 +36,7 @@ header a:hover {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  z-index: 2000;
+  z-index: 3;
 }
 
 .header__logo {
