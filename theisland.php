@@ -8,7 +8,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <!-- Font Awesome CSS -->
-    <link href="/fontawesome/css/fontawesome-all.css" rel="stylesheet">
+    <link href="fontawesome/css/fontawesome-all.css" rel="stylesheet">
     <!-- Navbar CSS -->
     <link rel="stylesheet" href="navbar/css/navbar.css">
     <!-- Main CSS -->
