@@ -4,6 +4,7 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Take a look of pictures of tourists having fun on Pramuka Island.">
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
@@ -21,7 +22,7 @@
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:700|Raleway:500" rel="stylesheet">
 
-    <title>Sunset Bungalow Pramuka Island</title>
+    <title>Gallery | Sunset Bungalow Pramuka Island</title>
   </head>
   <body>
     <div class="site-container">
@@ -39,72 +40,72 @@
                         <div class="col-md-11">
                             <div class="row my-3">
                                 <a href="img/gallery/img1.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="col-3">
-                                    <img src="img/gallery/img1.jpg" class="img-fluid">
+                                    <img src="img/gallery/img1.jpg" alt="Visitors jumping together on a beach in Thousand Islands" class="img-fluid">
                                 </a>
                                 <a href="img/gallery/img2.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="col-3">
-                                    <img src="img/gallery/img2.jpg" class="img-fluid">
+                                    <img src="img/gallery/img2.jpg" alt="Visitors in a mangrove forest in Thousand Islands" class="img-fluid">
                                 </a>
                                 <a href="img/gallery/img3.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="col-3">
-                                    <img src="img/gallery/img3.jpg" class="img-fluid">
+                                    <img src="img/gallery/img3.jpg" alt="Visitors taking a group selfie on a boat before snorkeling near Pramuka Island" class="img-fluid">
                                 </a>
                                 <a href="img/gallery/img4.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="col-3">
-                                    <img src="img/gallery/img4.jpg" class="img-fluid">
+                                    <img src="img/gallery/img4.jpg" alt="Picture of an island in Thousand Islands Jakarta" class="img-fluid">
                                 </a>
                             </div>
                             <div class="row my-3">
                                 <a href="img/gallery/img5.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="col-3">
-                                    <img src="img/gallery/img5.jpg" class="img-fluid">
+                                    <img src="img/gallery/img5.jpg" alt="Picture of a tourist in front of the Thousand Islands National Park sign" class="img-fluid">
                                 </a>
                                 <a href="img/gallery/img6.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="col-3">
-                                    <img src="img/gallery/img6.jpg" class="img-fluid">
+                                    <img src="img/gallery/img6.jpg" alt="Green coral reef in a diving spot near Pramuka Island" class="img-fluid">
                                 </a>
                                 <a href="img/gallery/img7.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="col-3">
-                                    <img src="img/gallery/img7.jpg" class="img-fluid">
+                                    <img src="img/gallery/img7.jpg" alt="A clownfish swimming around a reef near Pramuka Island" class="img-fluid">
                                 </a>
                                 <a href="img/gallery/img8.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="col-3">
-                                    <img src="img/gallery/img8.jpg" class="img-fluid">
+                                    <img src="img/gallery/img8.jpg" alt="Picture of a large group of tourists on a port in Pramuka Island" class="img-fluid">
                                 </a>
                             </div>
                             <div class="row my-3">
                                 <a href="img/gallery/img9.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="col-3">
-                                    <img src="img/gallery/img9.jpg" class="img-fluid">
+                                    <img src="img/gallery/img9.jpg" alt="Rows of boats docking in Pramuka Island" class="img-fluid">
                                 </a>
                                 <a href="img/gallery/img10.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="col-3">
-                                    <img src="img/gallery/img10.jpg" class="img-fluid">
+                                    <img src="img/gallery/img10.jpg" alt="Picture of tourists in Thousand Islands Jakarta" class="img-fluid">
                                 </a>
                                 <a href="img/gallery/img11.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="col-3">
-                                    <img src="img/gallery/img11.jpg" class="img-fluid">
+                                    <img src="img/gallery/img11.jpg" alt="Two female tourists walking near Thousand Islands National Park, Jakarta" class="img-fluid">
                                 </a>
                                 <a href="img/gallery/img12.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="col-3">
-                                    <img src="img/gallery/img12.jpg" class="img-fluid">
+                                    <img src="img/gallery/img12.jpg" alt="A picture of a Pramuka Island near the port" class="img-fluid">
                                 </a>
                             </div>
                             <div class="row my-3">
                                 <a href="img/gallery/img13.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="col-3">
-                                    <img src="img/gallery/img13.jpg" class="img-fluid">
+                                    <img src="img/gallery/img13.jpg" alt="A cluster of reefs in a diving spot near Pramuka Island" class="img-fluid">
                                 </a>
                                 <a href="img/gallery/img14.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="col-3">
-                                    <img src="img/gallery/img14.jpg" class="img-fluid">
+                                    <img src="img/gallery/img14.jpg" alt="Two kids rowing a kayak near Pramuka Island" class="img-fluid">
                                 </a>
                                 <a href="img/gallery/img15.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="col-3">
-                                    <img src="img/gallery/img15.jpg" class="img-fluid">
+                                    <img src="img/gallery/img15.jpg" alt="A small boat in the middle of a Mangrove Forest in Thousand Islands Jakarta" class="img-fluid">
                                 </a>
                                 <a href="img/gallery/img16.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="col-3">
-                                    <img src="img/gallery/img16.jpg" class="img-fluid">
+                                    <img src="img/gallery/img16.jpg" alt="A kid wearing a life vest floating in the ocean on a snorkeling session near Pramuka Island" class="img-fluid">
                                 </a>
                             </div>
                             <div class="row my-3">
                                 <a href="img/gallery/img17.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="col-3">
-                                    <img src="img/gallery/img17.jpg" class="img-fluid">
+                                    <img src="img/gallery/img17.jpg" alt="A stunning sunset seen from Pramuka Island" class="img-fluid">
                                 </a>
                                 <a href="img/gallery/img18.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="col-3">
-                                    <img src="img/gallery/img18.jpg" class="img-fluid">
+                                    <img src="img/gallery/img18.jpg" alt="A beautiful sunset seen from Pramuka Island" class="img-fluid">
                                 </a>
                                 <a href="img/gallery/img19.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="col-3">
-                                    <img src="img/gallery/img19.jpg" class="img-fluid">
+                                    <img src="img/gallery/img19.jpg" alt="Two kids in a turtle conservation facility near Pramuka Island Jakarta" class="img-fluid">
                                 </a>
                                 <a href="img/gallery/img20.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="col-3">
-                                    <img src="img/gallery/img20.jpg" class="img-fluid">
+                                    <img src="img/gallery/img20.jpg" alt="A mangrove forest in the Thousand Islands National Park, Jakarta" class="img-fluid">
                                 </a>
                             </div>
                         </div>

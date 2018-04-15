@@ -4,6 +4,7 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Cozy and clean, a perfect place to relax with your friends and families after a dive in the ocean or a stroll around Pramuka Island. Book our Bungalow now.">
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
@@ -19,7 +20,7 @@
     <!--freetobook Script -->
     <script type="text/javascript" src="https://static.freetobook.com/widgets/js/b1ba113482.js"></script>
 
-    <title>Sunset Bungalow Pramuka Island</title>
+    <title>The Bungalow | Sunset Bungalow Pramuka Island</title>
   </head>
   <body>
     <div class="site-container">
