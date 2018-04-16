@@ -71,10 +71,10 @@
                                     </div>
                                 </div>
                                 <div class="row my-4">
-                                    <div class="col">
+                                    <div class="col-4">
                                         <p>Amenities:</p>
                                     </div>
-                                    <div class="col">
+                                    <div class="col-4">
                                         <ul>
                                             <li><p>A/C</p></li>
                                             <li><p>Shower</p></li>
@@ -83,7 +83,7 @@
                                             <li><p>Hot water</p></li>
                                         </ul>
                                     </div>
-                                    <div class="col">
+                                    <div class="col-4">
                                         <ul>
                                             <li><p>TV</p></li>
                                             <li><p>Kitchen</p></li>
