@@ -116,6 +116,7 @@
     <script>
         $(document).ready(function(){
             $(".owl-carousel").owlCarousel({
+                nav: true,
                 center: true,
                 items:2,
                 loop:true,

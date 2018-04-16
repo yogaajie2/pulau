@@ -8,6 +8,10 @@ h1, h3, h2 {
 
 h3 {
 	color: #fff;
+}
+
+h3.card-title {
+	color: #000;
 }	
 
 h1 {
@@ -188,7 +192,8 @@ a.bookButton {
 	font-weight: bold;
 }
 
-div.topContent {
+div.topContentMobile {
+	display: none;
 }
 
 div.contentRow {
@@ -258,7 +263,11 @@ footer {
 		display: flex;
 	}
 
-	.topVideo {
+	div.topContent {
 		display: none;
+	}
+
+	div.topContentMobile {
+		display: block;
 	}
 }	

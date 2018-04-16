@@ -68,6 +68,42 @@
                     </div> 
                 </div>
 
+                <div class="container topContentMobile">
+                    <div class="row contentRowMobile">
+                        <div class="col topVideo">
+                            <div class="embed-responsive embed-responsive-16by9">
+                                <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/rfd2b5a__v4" allowfullscreen></iframe>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row contentRowMobile mt-3">
+                        <div class="col-6 contentCol contentColHistory text-center">
+                            <table style="height: 100%;" class="mx-auto">
+                                <tbody>
+                                    <tr>
+                                        <td class="align-middle">
+                                            <a href="#">
+                                                <h2 class="contentColText">HISTORY</h2>
+                                            </a>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                        <div class="col-6 contentCol contentColCulture text-center">
+                            <table style="height: 100%;" class="mx-auto">
+                                <tbody>
+                                    <tr>
+                                        <td class="align-middle">
+                                            <a href="#"><h2 class="contentColText">CULTURE</h2></a>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div> 
+
                 <div class="container">
                     <div class="row my-4">
                         <div class="col">

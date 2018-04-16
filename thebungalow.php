@@ -67,7 +67,7 @@
                                         <p>More Info:</p>
                                     </div>
                                     <div class="col-8">
-                                        <p>The family room provides the warmth, cleanliness and extra space your family and friends needs for a perfect holiday experience.</p>
+                                        <p>The Bungalow room provides warmth, cleanliness and extra space your family and friends needs for a perfect holiday experience.</p>
                                     </div>
                                 </div>
                                 <div class="row my-4">
@@ -75,13 +75,22 @@
                                         <p>Amenities:</p>
                                     </div>
                                     <div class="col">
-                                        <p>A/C</p>
-                                        <p>Shower</p>
-                                        <p>Towels</p>
+                                        <ul>
+                                            <li><p>A/C</p></li>
+                                            <li><p>Shower</p></li>
+                                            <li><p>Towels</p></li>
+                                            <li><p>Refrigerator</p></li>
+                                            <li><p>Hot water</p></li>
+                                        </ul>
                                     </div>
                                     <div class="col">
-                                        <p>TV</p>
-                                        <p>Kitchen</p>
+                                        <ul>
+                                            <li><p>TV</p></li>
+                                            <li><p>Kitchen</p></li>
+                                            <li><p>Safe/deposit box</p></li>
+                                            <li><p>Water dispensers</p></li>
+                                            <li><p>Coffee &amp; tea</p></li>
+                                        </ul>
                                     </div>
                                 </div>
                             </div>
