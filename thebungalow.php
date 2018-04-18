@@ -55,11 +55,11 @@
                                         <p>Properties:</p>
                                     </div>
                                     <div class="col">
-                                        <p>Accommodates: 8</p>
-                                        <p>Beds: 8 Single(s)</p>
+                                        <p>Accommodates: 5 Adults</p>
+                                        <p>Beds: 5 Single(s)</p>
                                     </div>
                                     <div class="col">
-                                        <p>size: 32 sq m</p>
+                                        <p>size: 24 sq m</p>
                                     </div>
                                 </div>
                                 <div class="row my-4">
@@ -100,7 +100,7 @@
                             <div class="container">
                                 <div class="row d-md-block">
                                     <p>From</p>
-                                    <h3 style="color: #000;">Rp600000</h3>
+                                    <h3 style="color: #000;">Rp300000</h3>
                                     <p>Per Night</p>
                                 </div>
                                 <div class="row">
