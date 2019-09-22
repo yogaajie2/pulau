@@ -32,7 +32,7 @@
                 <section class="landingPage">
                     <div class="row">
                         <div class="container mainSlogan">
-                            <h1>Paradise at Your Doorstep.</h1>
+                            <h1>JEDER KONTOL</h1>
                         </div>
                     </div>
 
@@ -54,6 +54,8 @@
             <div class="site-cache" id="site-cache"></div>
         </div>
     </div>
+
+    <!-- TESTINPuT -->
     
 
     <!-- Optional JavaScript -->
