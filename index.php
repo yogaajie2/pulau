@@ -45,7 +45,7 @@
                     <div class="row">
                         <div class="container bookNow">
                             <a href="thebungalow.php">
-                                <h3>BOOK NOW</h3>
+                                <h3>DUAR MEMEK</h3>
                             </a>
                         </div>
                     </div>
@@ -54,8 +54,6 @@
             <div class="site-cache" id="site-cache"></div>
         </div>
     </div>
-
-    <!-- TEST 2 -->
     
 
     <!-- Optional JavaScript -->
